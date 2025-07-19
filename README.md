@@ -42,11 +42,15 @@ npm run dev
 ---
 
 📘 API Documentation
-Endpoint: /user/{id}
+
+### Endpoint: 
+```
+/user/{id}
 GET /user/{id}
+```
 Retrieve user details by ID.
 
-Path Parameter
+### Path Parameter
 id (string): Required, 1-10 characters
 Response
 {
