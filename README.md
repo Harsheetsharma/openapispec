@@ -1,6 +1,6 @@
 # ⚡ Hono Cloudflare API
 
-This is a lightweight and fast API project built using [Hono](https://hono.dev/) and deployed on [Cloudflare Workers](https://developers.cloudflare.com/workers/). It includes a simple OpenAPI spec and generated client SDKs for easy integration.
+This is a lightweight and fast API project built using [Hono](https://hono.dev/) It includes a simple OpenAPI spec and generated client SDKs for easy integration.
 
 ---
 
@@ -16,12 +16,14 @@ This is a lightweight and fast API project built using [Hono](https://hono.dev/)
 
 ## 📁 Project Structure
 .
+<!-- 
 ├── src/
 │ └── index.ts # Main API entry using Hono
 ├── spec.json # OpenAPI 3.0 specification
 ├── wrangler.jsonc # Cloudflare configuration
 ├── package.json
 └── README.md
+-->
 ---
 
 ## 🚀 Getting Started
