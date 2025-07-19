@@ -51,6 +51,7 @@ GET /user/{id}
 Retrieve user details by ID.
 
 ### Path Parameter
+```
 id (string): Required, 1-10 characters
 Response
 {
@@ -58,12 +59,12 @@ Response
   "age": 20,
   "id": "123"
 }
-
+```
 ---
 
-🧰 Tooling
+## 🧰 Tooling
 
-Hono
+### Hono
 
 ### 1. Cloudflare Workers
 
