@@ -16,8 +16,8 @@ This is a lightweight and fast API project built using [Hono](https://hono.dev/)
 
 ## 📁 Project Structure
 .
-
-```├── src/
+```
+├── src/
 │ └── index.ts # Main API entry using Hono
 ├── spec.json # OpenAPI 3.0 specification
 ├── wrangler.jsonc # Cloudflare configuration
