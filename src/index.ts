@@ -87,7 +87,8 @@ app.doc('/doc', {
   openapi: '3.0.0',
   info: {
     version: "1.0.0",
-    title: 'My api'
+    title: 'http://localhost:3000',
+    description: 'This is a sample API documentation'
   }
 })
 export default app;
