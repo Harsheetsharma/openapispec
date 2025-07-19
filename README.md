@@ -66,10 +66,10 @@ Response
 
 ### Hono
 
-### 1. Cloudflare Workers
+1. Cloudflare Workers
 
-### 2. OpenAPI Generator
+2. OpenAPI Generator
 
-### 3. Wrangler CLI
+3. Wrangler CLI
 
 
